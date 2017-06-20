@@ -42,8 +42,7 @@
     In the document head we place things like the page title and meta data,
     we add JavaScript to our page with the script tag, and we [link] to external
     stylesheets and other resources.
-
-Read more: http://html.com/document/#ixzz4kV9BT2y4
+    
 
 		<title>The Doughknot Shoppe</title> This is the title of the webpage.
 		<link rel="stylesheet" type="text/css" href="css/style.css">  This links our HTML document to our CSS files. Notice the attribute tags.
