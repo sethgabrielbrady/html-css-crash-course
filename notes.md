@@ -1,14 +1,15 @@
 # Agenda
 
 1. Basics of html
-  * Hyper Text Markup Language. HyperText" refers to links that connect webpages
+  * Hyper Text Markup Language. HyperText refers to links that connect webpages
     to one another, either within a single website or between websites. HTML uses
     "markup" to annotate text, images, and other content for display in a Web browser.
     Is not a programming language; it is a markup language
   * Most basic building block of the Web
 
 2. Discuss the Purpose of html + Demonstrate Tags, Nesting, Attributes
-    * Is used to tell your browser how to structure the webpages you visit.
+
+    * HTML is used to tell your browser how to structure the webpages you visit.
     It can be as complicated or as simple as the web developer wishes it to be.
     HTML consists of a series of elements, which you use to enclose, wrap, or
     mark up different parts of the content to make it appear a certain way, or
@@ -42,7 +43,7 @@
     In the document head we place things like the page title and meta data,
     we add JavaScript to our page with the script tag, and we [link] to external
     stylesheets and other resources.
-    
+
 
 		<title>The Doughknot Shoppe</title> This is the title of the webpage.
 		<link rel="stylesheet" type="text/css" href="css/style.css">  This links our HTML document to our CSS files. Notice the attribute tags.
